@@ -390,6 +390,7 @@ body{
         align-self: center;
 }
 .content-block-big{
+    height: 550px;
     margin: 10px 0px;
     padding: 0px 30px;
     display: grid;
